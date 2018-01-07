@@ -51,6 +51,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>openshifttcs</finalName>
+		<finalName>ROOT</finalName>
 	</build>
 </project>
