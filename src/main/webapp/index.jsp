@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello GG!... Welcome BACK.. Hey Auto Pro..!</h2>
+<h2>Hello GG!... Welcome BACK.. Are you Ready!</h2>
 </body>
 </html>
